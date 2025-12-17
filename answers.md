@@ -3,3 +3,4 @@
 `LEVEL 3 COMPLETE: check git log`
 `LEVEL 4 COMPLETE: fixed the hallway sign`
 `LEVEL 5 COMPLETE: check git branch`
+`LEVEL 6 CHEST CODE: FOX-7`
