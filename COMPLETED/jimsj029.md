@@ -15,8 +15,8 @@ Paste the output of this command (run inside your repo):
 git log --oneline -5
 
 
-0f2bd32 (HEAD -> student-jimuel) LEVEL 9 COMPLETE: revolved merge conflict
+fb5cdce (HEAD -> student-jimuel, origin/student-jimuel) FINAL: completed Git Quest
+c7ef3ab Remove answer.md
+75a904d FINAL: completed Git Quest
+0f2bd32 LEVEL 9 COMPLETE: revolved merge conflict
 71f22c9 Branch: edit answers.md
-5176278 (main) Main: add answers.md
-ea7f766 (origin/student-jimuel) Level 8: opened PR in my fork
-9d7f9eb Level 7: check git diff
