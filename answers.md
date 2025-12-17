@@ -4,3 +4,4 @@
 `LEVEL 4 COMPLETE: fixed the hallway sign`
 `LEVEL 5 COMPLETE: check git branch`
 `LEVEL 6 CHEST CODE: FOX-7`
+`LEVEL 7 COMPLETE: check git diff`
